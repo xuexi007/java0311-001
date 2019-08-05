@@ -8,6 +8,7 @@ import javax.jms.JMSException;
 import javax.jms.MapMessage;
 import javax.jms.Message;
 import javax.jms.MessageListener;
+//*************************修改001*************************
 @Component
 public class SmsListener implements MessageListener {
     @Autowired
