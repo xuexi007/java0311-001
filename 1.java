@@ -9,6 +9,7 @@ import javax.jms.MapMessage;
 import javax.jms.Message;
 import javax.jms.MessageListener;
 //*************************修改001*************************
+//##########################组长修改内容####################
 @Component
 public class SmsListener implements MessageListener {
     @Autowired
